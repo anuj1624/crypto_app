@@ -26,7 +26,7 @@ const Footer = () => {
         </VStack>
 
         <VStack>
-          <Avatar boxSize={"28"} mt={["4", "0"]} src={img}/>
+{/*           <Avatar boxSize={"28"} mt={["4", "0"]} src={img}/> */}
           <Text>Our Founder</Text>
         </VStack>
       </Stack>
