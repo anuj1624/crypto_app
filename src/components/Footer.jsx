@@ -21,7 +21,11 @@ const Footer = () => {
             textAlign={["center", "left"]}
             w={'full'}
           >
-            Lorem ipsum dolor sit, amet consectetur adipisicing elit. Harum, quibusdam incidunt nihil provident consequuntur facere cumque, culpa quo laudantium necessitatibus, cum vel! Adipisci asperiores ipsa repellendus delectus dolorum inventore quod cum sunt aperiam amet, laboriosam eius, temporibus natus velit nihil.
+              
+  real time crypto is a Professional crypto analysis Platform. Here we will provide you only interesting content, which you will like very much. We're dedicated to providing you the best of crypto analysis , with a focus on dependability and crypto currency exchange and analysis. We're working to turn our passion for crypto analysis  into a booming . We hope you enjoy our crypto analysis  as much as we enjoy offering them to you.
+I will keep posting more important posts on my Website for all of you. Please give your support and love
+Thanks For Visiting Our Site
+Have a nice day!
           </Text>
         </VStack>
 
