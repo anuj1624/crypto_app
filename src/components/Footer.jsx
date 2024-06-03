@@ -36,7 +36,7 @@ Have a nice day!
       </Stack>
     <Text
     textAlign={'center'}>
-    © 2023 Anand Sharma.All Rights Reserved.
+    © 2023 Anuj.All Rights Reserved.
 
     </Text>
     </Box>
