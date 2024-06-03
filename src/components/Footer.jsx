@@ -1,6 +1,6 @@
 import { Avatar, Box, Stack, Text, VStack } from "@chakra-ui/react";
 import React from "react";
-import  img from '../assets/me.jpg';
+import  img from '../assets/btc (1).jpg';
 
 const Footer = () => {
   return (<>
@@ -36,7 +36,7 @@ Have a nice day!
       </Stack>
     <Text
     textAlign={'center'}>
-    © 2023 Anuj.All Rights Reserved.
+    © 2024 Anuj .All Rights Reserved.
 
     </Text>
     </Box>
